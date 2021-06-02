@@ -8,7 +8,7 @@ I uploaded it here to make it easier to share with friends and migrate between c
 
 ## Installation
 
-Run entirely on standard CPP libraries. Should compile fine by running **'make'** in the main directory.
+Runs entirely on standard CPP libraries. Should compile fine by running **'make'** in the main directory.
 
 ## Usage
 
